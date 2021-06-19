@@ -1,3 +1,4 @@
+
 /* CSSのリセット（消さないでください） */
 html, body,
 ul, ol, li,
@@ -89,8 +90,8 @@ margin-top: 20px;
 
 .header-left {            
 float: left;            
-}
-
+}            
+  
 .header-right {            
 float: right;            
 background-color: rgba(255, 255, 255, 0.3);            
@@ -99,7 +100,7 @@ transition: all 0.5s;
 
 .header-right:hover {            
 background-color: rgba(255, 255, 255, 0.5);            
-}
+}            
      
 .header-right a {            
 line-height: 65px;            
@@ -118,8 +119,8 @@ text-align: center;
 padding-top: 80px;            
 padding-bottom: 50px;            
 color: #5f5d60;            
-}
-
+}            
+ 
 .heading h2 {            
 font-weight: normal;            
 }            
@@ -127,8 +128,8 @@ font-weight: normal;
 .lesson{            
 float: left;            
 width: 25%;            
-}
-
+}            
+  
 .lesson-icon {            
 position: relative;            
 }            
@@ -138,7 +139,8 @@ position: absolute;
 top: 90px;            
 width: 100%;            
 color: white;            
-}
+}            
+
 .text-contents {            
 width: 80%;            
 display: inline-block;            
